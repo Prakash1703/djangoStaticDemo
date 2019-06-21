@@ -1,0 +1,2 @@
+# djangoStaticDemo
+djangostaticFile info
